@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @igorrgabr
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me Instagram @igorrgabr or E-mail igorgabrield18@gmail.com
+Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor.
 
-<!---
-igorrgabr/igorrgabr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Estudando Python, HTML e CSS.
+- 💞️ Interessado em aprender coisas novas!
+- 📫 Contato: igorgabrield18@gmail.com
