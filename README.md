@@ -1,4 +1,4 @@
-Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor. 💻
+# Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor. 💻
 
 - 🚀 Estudando C#, C e C++
 - ⚡️ Conhecimento em Python, HTML/CSS e JS
