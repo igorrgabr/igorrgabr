@@ -8,4 +8,4 @@
 📱 Instagram: @igorrgabr && Linkedin: https://www.linkedin.com/in/igorrgabr/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrgabr&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorrgabr&layout=compact)](https://github.com/igorrgabr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorrgabr&layout=compact&theme=synthwave)](https://github.com/igorrgabr/github-readme-stats)
