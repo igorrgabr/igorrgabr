@@ -8,3 +8,4 @@
 📱 Instagram: @igorrgabr && Linkedin: https://www.linkedin.com/in/igorrgabr/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrgabr)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrgabr&show_icons=true&theme=gruvbox)
