@@ -7,4 +7,4 @@
 
 📱 Instagram: @igorrgabr && Linkedin: https://www.linkedin.com/in/igorrgabr/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrgabr&show_icons=true&theme=synthwave)
