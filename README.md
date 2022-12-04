@@ -7,4 +7,4 @@
 
 📱 Instagram: @igorrgabr && Linkedin: https://www.linkedin.com/in/igorrgabr/
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=igorrgabr&bg_color=412268&color=6d4c9e&line=b594cc&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrgabr)](https://github.com/anuraghazra/github-readme-stats)
