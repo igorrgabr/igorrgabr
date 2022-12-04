@@ -7,5 +7,6 @@
 
 📱 Instagram: @igorrgabr && Linkedin: https://www.linkedin.com/in/igorrgabr/
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=igorrgabr&theme=onedark)](https://github.com/igorrgabr/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrgabr&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorrgabr&layout=compact&theme=synthwave)](https://github.com/igorrgabr/github-readme-stats)
