@@ -1,7 +1,7 @@
 # Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor. 💻
 
-- 🚀 Estudando C e C#
-- ⚡️ Conhecimento em Python, HTML/CSS e JS
+- 🚀 Desenvolvedor Full Stack
+- ⚡️ Atuando em uma aplicação Web
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/igorrgabr">
