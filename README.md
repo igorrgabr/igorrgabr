@@ -1,7 +1,7 @@
 # Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor. 💻
 
 - 🚀 Desenvolvedor Full Stack
-- ⚡️ Atuando em uma aplicação Web
+- ⚡️ Cursando Análise de Sistemas no IFRN
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/igorrgabr">
