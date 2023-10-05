@@ -1,7 +1,7 @@
 # Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor. 💻
 
-- 🚀 Desenvolvedor Full Stack
-- ⚡️ Cursando Análise de Sistemas no IFRN
+- ⚡️ Cursando Análise e Desenvolvimento de Sistemas no IFRN
+- 🚀 Estudando Django Rest, React e JavaScript
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/igorrgabr">
@@ -16,7 +16,7 @@
   <img align="center" alt="IGORPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="IGORCSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg">
   <img align="center" alt="IGORC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-
+  <img align="center" alt="IGORPHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
   ##
