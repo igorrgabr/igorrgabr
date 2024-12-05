@@ -1,7 +1,7 @@
 # Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor. 💻
 
-- ⚡️ Cursando Análise e Desenvolvimento de Sistemas no IFRN
-- 🚀 Estudando Django Rest, React e JavaScript
+- ⚡️ Cursando Sistemas para Internet na UNICSUL
+- 🚀 Desenvolvimento Front-End
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/igorrgabr">
