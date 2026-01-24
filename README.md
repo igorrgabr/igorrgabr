@@ -1,27 +1,43 @@
-# Oi! Meu nome é Igor Gabriel e estou iniciando minha carreira como desenvolvedor. 💻
+# Oi! Eu sou o Igor Gabriel e essa é minha jornada como desenvolvedor 👋
 
-- ⚡️ Cursando Sistemas para Internet na UNICSUL
-- 🚀 Desenvolvimento Front-End
+Sou desenvolvedor e atualmente trabalho como Dev Jr. Front-end na **Corps Teknologi**.
+Formado em Sistemas para Internet pela UNICSUL.
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/igorrgabr">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=igorrgabr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrgabr&layout=compact&langs_count=7&theme=synthwave"/>
+## 🚀 O que eu faço no dia a dia
+- Desenvolvimento de interfaces responsivas e componentizadas
+- Construção de aplicações com React e Next.js
+- Desenvolvimento mobile com React Native
+- Integração com APIs e apoio no back-end quando necessário
+
+## 🧰 Tecnologias que mais uso
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-0f172a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php)
+![Lua](https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua)
+
+## 📊 GitHub stats
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=igorrgabr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrgabr&layout=compact&langs_count=7&theme=synthwave" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="IGORJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="IGORHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="IGORCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="IGORPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="IGORCSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg">
-  <img align="center" alt="IGORC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/igorrgabr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:igorgabrield18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igorrgabr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 📫 Onde me encontrar
+<a href="https://www.linkedin.com/in/igorrgabr/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://www.instagram.com/igorrgabr/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram" />
+</a>
+<a href="mailto:igorgabrield18@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail" />
+</a>
