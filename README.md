@@ -25,12 +25,6 @@ Formado em Sistemas para Internet pela UNICSUL.
 ![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php)
 ![Lua](https://img.shields.io/badge/Lua-0f172a?style=for-the-badge&logo=lua)
 
-## 📊 GitHub stats
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=igorrgabr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrgabr&layout=compact&langs_count=7&theme=synthwave" />
-</div>
-
 ## 📫 Onde me encontrar
 <a href="https://www.linkedin.com/in/igorrgabr/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
