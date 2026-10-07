@@ -1,13 +1,13 @@
 # Oi! Eu sou o Igor Gabriel e essa é minha jornada como desenvolvedor 👋
 
-Sou desenvolvedor e atualmente trabalho como Dev Jr. Front-end na **Corps Teknologi**.
+Sou desenvolvedor e atualmente trabalho na **G Trigueiro**.
 Formado em Sistemas para Internet pela UNICSUL.
 
 ## 🚀 O que eu faço no dia a dia
 - Desenvolvimento de interfaces responsivas e componentizadas
 - Construção de aplicações com React e Next.js
 - Desenvolvimento mobile com React Native
-- Integração com APIs e apoio no back-end quando necessário
+- Integração com APIs e apoio no back-end
 
 ## 🧰 Tecnologias que mais uso
 ### Front-end
